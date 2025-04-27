@@ -85,7 +85,7 @@ int main()
 ### Result:
 Thus, the program is verified successfully
  
-# EXP NO: 7C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+## EXP NO: 7C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
 ### Aim:
 
 To write a C program to print ten space-separated integers in a single line denoting the 
@@ -134,7 +134,7 @@ int main()
 ### Result:
 Thus, the program is verified successfully
 
-# EXP NO: 8C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+## EXP NO: 8C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
 ### Aim:
 To write a C program to print all of its permutations in strict lexicographical order.
 
@@ -215,7 +215,7 @@ int main()
 ### Result:
 Thus, the program is verified successfully
  
-# EXP NO: 9C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
+## EXP NO: 9C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
 
 ### Aim:
 
