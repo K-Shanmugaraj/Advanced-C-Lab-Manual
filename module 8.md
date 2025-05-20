@@ -1,9 +1,10 @@
-## EXP NO: 6C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-### Aim:
+# EXP NO: 6C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+## DATE: 08-03-2025
+## Aim:
 
 To write a C program print the lowercase English word corresponding to the number
 
-### Algorithm:
+## Algorithm:
 
 1.	Start
 - Initialize an integer variable n.
@@ -17,7 +18,7 @@ To write a C program print the lowercase English word corresponding to the numbe
 -	Default: Print "Greater than 13"
 4.	Exit the program.
  
-### Program:
+## Program:
 ```
 #include<stdio.h>
 #include<math.h>
@@ -75,23 +76,24 @@ int main()
 }
 
 ```
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/03812c0d-9a22-44d6-8421-8158c966d6d3)
 
 
 
 
-### Result:
+## Result:
 Thus, the program is verified successfully
  
-## EXP NO: 7C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
-### Aim:
+# EXP NO: 7C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+## DATE: 08-03-2025
+## Aim:
 
 To write a C program to print ten space-separated integers in a single line denoting the 
 frequency of each digit from 0 to 3.
 
-### Algorithm:
+## Algorithm:
 
 1.	Start
 2.	Declare char array a[50] outer loop for each digit from 0 to 3
@@ -100,7 +102,7 @@ frequency of each digit from 0 to 3.
 5.	Increment h to move to the next digit
 6.	End
  
-### Program:
+## Program:
 ```
 #include<stdio.h>
 #include<string.h>
@@ -126,19 +128,20 @@ int main()
 }
 
 ```
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/a90075a0-9402-4a96-a5d5-6ba2318c8820)
 
 
-### Result:
+## Result:
 Thus, the program is verified successfully
 
-## EXP NO: 8C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
-### Aim:
+# EXP NO: 8C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+## DATE: 08-03-2025
+## Aim:
 To write a C program to print all of its permutations in strict lexicographical order.
 
-### Algorithm:
+## Algorithm:
 1.	Start
 2.	Declare variables s (pointer to an array of strings) and n (number of strings)
 
@@ -151,7 +154,7 @@ Read the number of strings n from the user Dynamically allocate memory for each 
 Free the memory allocated for each string in s Free the memory allocated for s
 7.	End
  
-### Program:
+## Program:
 ```
 #include<stdio.h>
 #include<string.h>
@@ -207,17 +210,17 @@ int main()
 }
 
 ```
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/54d07613-24ab-48d7-943b-c45fe39332db)
 
 
-### Result:
+## Result:
 Thus, the program is verified successfully
  
-## EXP NO: 9C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
-
-### Aim:
+# EXP NO: 9C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
+## DATE: 13-03-2025
+## Aim:
 
 To write a C program to print a pattern of numbers from 1 to n as shown below.
 
@@ -231,7 +234,7 @@ Algorithm:
 6.	Calculate min as the minimum distance to the borders
 7.	End
  
-### Program:
+## Program:
 ```
 #include<stdio.h>
 int main()
@@ -254,20 +257,20 @@ int main()
 }
 
 ```
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/fdca9f3a-fa4a-44c6-aa61-e62856288429)
 
-### Result:
+## Result:
 Thus, the program is verified successfully
 
-## EXP NO: 10C PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
-
-### Aim:
+# EXP NO: 10C PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
+## DATE: 13-03-2025
+## Aim:
 
 To write a C program that calculates the square of a number using a function that does not take any arguments, but returns the square of the number.
 
-### Algorithm:
+## Algorithm:
 
 1.	Start.
 2.	Define a function square() with no parameters. This function will return an integer value.
@@ -280,7 +283,7 @@ o	Return the squared value.
 o	Call the square() function and display the result.
 5.	End.
 
-### Program:
+## Program:
 
 ```
 #include <stdio.h>
@@ -299,13 +302,13 @@ void square(){
 ```
 
 
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/aeab47f5-8222-48fd-aa4f-c484757c1da8)
 
 
 
-### Result:
+## Result:
 Thus, the program is verified successfully
 
 
