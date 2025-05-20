@@ -181,7 +181,7 @@ Thus, the program to write the logic for the requests is verified successfully.
 
  
 # EXP NO: 24C PROGRAM PRINT THE SUM OF THE INTEGERS IN THE ARRAY.
-## DATE: 03-04-2025
+## DATE: 03-05-2025
 ## Aim:
 
 To write a C program print the sum of the integers in the array.
@@ -231,7 +231,7 @@ Thus, the program prints the sum of the integers in the array is verified succes
 
  
 # EXP NO: 25C PROGRAM TO COUNT THE NUMBER OF WORDS IN A SENTENCE
-## DATE: 03-04-2025
+## DATE: 03-05-2025
 ## Aim:
 
 To write a C program that counts the number of words in a given sentence.
