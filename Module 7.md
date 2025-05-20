@@ -1,10 +1,10 @@
-## EXP NO: 1C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-
-### Aim:
+# EXP NO: 1C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+## DATE: 27-02-2025
+## Aim:
 
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
-### Algorithm:
+## Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
 3.	Input age and name using scanf, store in e
@@ -15,7 +15,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-### Program:
+## Program:
 ```
 #include<stdio.h>
 struct eligib
@@ -39,13 +39,13 @@ int main()
 }
 
 ```
-### Output:
+## Output:
 
 ![image](https://github.com/user-attachments/assets/32d94b64-16df-4fe3-9cd1-7cf237123468)
 
 
 
-### Result:
+## Result:
 Thus, the program is verified successfully. 
 
 
